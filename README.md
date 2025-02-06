@@ -1,3 +1,5 @@
+# ai financial chatbot
+
 Created an AI-powered financial chatbot for BCG X, integrated and interpreted complex financial data from 10-K and 10-Q reports providing user-friendly financial insights.
 
 The chatbot I have created is a simple, interactive chatbot that assesses financial data for the companies: Microsoft, Tesla and Apple from the csv file I compiled and runs based on rule-based logic. It replies to predefined queries about different financial metrics like revenue, net income growth and the asset to liability ratio i.e a company's financial health.
